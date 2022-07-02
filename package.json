@@ -1,5 +1,5 @@
 {
-  "homepage": "https://stolkacheva.github.io/react-todo-xtech",
+  "homepage": "https://stolkacheva.github.io/react-todo-xtech/",
   "name": "react-todo-xtech",
   "version": "0.1.0",
   "private": true,
@@ -45,6 +45,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^3.2.3"
   }
 }
