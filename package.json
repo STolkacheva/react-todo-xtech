@@ -1,4 +1,5 @@
 {
+  "homepage": "https://stolkacheva.github.io/react-todo-xtech",
   "name": "react-todo-xtech",
   "version": "0.1.0",
   "private": true,
@@ -42,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
